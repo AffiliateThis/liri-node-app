@@ -1,2 +1,2 @@
 # liri-node-app
-Music and Movie Search
+Music and Movie Search Application.
